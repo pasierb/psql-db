@@ -1,0 +1,18 @@
+{
+  "name": "psql-db",
+  "version": "0.0.1",
+  "main": "bin/psql-db.js",
+  "bin": {
+    "psql-db": "bin/psql-db.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Spin up a local PostgreSQL database in seconds for free. No credit card required.",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "dedent": "^1.6.0"
+  }
+}

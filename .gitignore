@@ -1,0 +1,5 @@
+# For testing
+.env
+docker-compose.psql-db.yml
+
+node_modules/
