@@ -1,6 +1,6 @@
 {
   "name": "psql-db",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "bin/psql-db.js",
   "bin": {
     "psql-db": "bin/psql-db.js"
