@@ -5,11 +5,9 @@
   "bin": {
     "psql-db": "bin/psql-db.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "scripts": {},
+  "author": "Michal Pasierbski <mpasierbski@gmail.com>",
+  "license": "MIT",
   "description": "Spin up a local PostgreSQL database in seconds for free. No credit card required.",
   "dependencies": {
     "chalk": "^5.4.1",
